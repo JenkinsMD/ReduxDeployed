@@ -6,6 +6,8 @@
 
 * https://github.com/JenkinsMD/ReduxDeployed
 
+* Original repo that was having deployment issues to Heroku.  I made a new repo and copied over my code to be able to deploy.  The original repo will have all of my working commits.  https://github.com/JenkinsMD/ReduxStoreRefactor
+
 ## Technologies Used
 MongoDB
 Apollo Server
